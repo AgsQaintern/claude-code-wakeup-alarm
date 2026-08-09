@@ -1,0 +1,10 @@
+.DS_Store
+*.log
+*.bak.*
+.claude/
+_upstream_tmp/
+*.status.json
+Thumbs.db
+*.tmp
+macos/WakeupAlarm/.build/
+macos/WakeupAlarm/.swiftpm/

@@ -1,0 +1,27 @@
+{
+  "enabled": true,
+  "delaySecs": 10,
+  "idleSecs": 15,
+  "returnSecs": 2,
+  "maxSecs": 120,
+  "loop": false,
+  "events": [
+    "permission_prompt",
+    "idle_prompt",
+    "agent_needs_input",
+    "agent_completed",
+    "stop"
+  ],
+  "video": "",
+  "videoMode": "random",
+  "player": "auto",
+  "volume": null,
+  "logPath": "",
+  "ui": {
+    "firstRunCompleted": false,
+    "minimizeToTray": true,
+    "startAtLogin": false,
+    "scope": "global",
+    "projectPath": ""
+  }
+}

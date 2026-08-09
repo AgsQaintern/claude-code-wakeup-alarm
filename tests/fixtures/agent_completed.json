@@ -1,0 +1,7 @@
+{
+  "session_id": "test123",
+  "cwd": "/tmp",
+  "hook_event_name": "Notification",
+  "notification_type": "agent_completed",
+  "message": "Agent finished its work"
+}
